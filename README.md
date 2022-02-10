@@ -20,6 +20,7 @@
 
 ## 🚀 Languages and Tools:
 
+<center>
 <p align="left"> 
     <a href="https://icons8.com/icon/zfHRZ6i1Wg0U/figma"><img src="https://img.icons8.com/color/50/000000/figma--v1.png"/> </a>
     <a href="https://icons8.com/icon/13677/adobe-photoshop"><img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/> </a>
@@ -30,6 +31,7 @@
     <a href="https://icons8.com/icon/7AFcZ2zirX6Y/dart"><img src="https://img.icons8.com/color/50/000000/dart.png"/> </a>
     <a href="https://icons8.com/icon/87330/google-firebase-console"><img src="https://img.icons8.com/color/50/000000/google-firebase-console.png"/> </a>
 </p>
+</center>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
