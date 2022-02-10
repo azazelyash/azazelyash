@@ -34,10 +34,7 @@
 
 <br/>
 
-<p align="center">
-    <a href="http://github-readme-streak-stats.herokuapp.com?user=azazelyash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats">
-    </a>
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azazelyash&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📊 My Github Stats
 
