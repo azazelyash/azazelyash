@@ -61,7 +61,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/yash085/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://www.linkedin.com/in/yash085/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.behance.net/yashvi20cs085"><img src="https://img.icons8.com/color/50/000000/behance.png"/></a>
+    <a href="mailto:jss.yash085@gmail.com"><img src="https://img.icons8.com/color/50/000000/google-plus-squared.png"/></a>
 
 </p>
 
