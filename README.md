@@ -18,8 +18,11 @@
 
 - ⚡ Fun fact **I play Valorant**
 
+<br>
+
 ## 🚀 Languages and Tools:
 
+<br>
 <p align="center"> 
     <a href="https://icons8.com/icon/zfHRZ6i1Wg0U/figma"><img src="https://img.icons8.com/color/50/000000/figma--v1.png"/> </a>
     <a href="https://icons8.com/icon/13677/adobe-photoshop"><img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/> </a>
