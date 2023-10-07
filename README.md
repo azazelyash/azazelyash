@@ -53,11 +53,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/azazelyash/azazelyash/blob/main/README.md"><img alt="Yash Vishwakarma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azazelyash&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/yash085/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
